@@ -1,15 +1,10 @@
-field,display_name,browse_link,external_link
+dfield,display_name,browse_link,external_link
 title,Title,
-creator,Creator,
+creator,Company Name,
 date,Date Created,
 description,Description,
-subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
+subject,Headquaters,true
 source,Source
 identifier,Source Identifier,,
-type,Type,
-format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
