@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
-featured-image: /assets/img/jj-ying-WmnsGyaFnCQ-unsplash_opt.jpg
+featured-image: https://archive.org/download/PC013595/PC013595.jpg
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 10em # Default is 8em
 # optional: change position of background image, center, top, bottom
@@ -58,7 +58,7 @@ year-nav-increment: 5 # set increments when auto gen nav years
 #
 # add metadata fields for export in data downloads (tip: paste in first row of csv)
 # comma delimited list, reference url is automatic
-metadata-export-fields: "title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement"
+metadata-export-fields: "title,creator,date,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement"
 # generate a facets list for given fields, comma delimited
 metadata-facets-fields: "subject,creator,format"
 
@@ -109,7 +109,7 @@ font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/c
 #   icon-image: image
 #   icon-audio: soundwave
 #   icon-video: film
-#   icon-pdf: file-pdf
+icon-pdf: file-pdf
 #   icon-record: file-text
 #   icon-compound-object: collection
 #   icon-multiple: postcard
