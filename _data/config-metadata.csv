@@ -1,10 +1,10 @@
 field,display_name,browse_link,external_link
 title,Title,
-creator,Company Name,
+creator,Company Name,true
 date,Date,
-description,Description,
+description,Description,,true
 subject,Headquaters,true
-source,Source
+source,Source,true
 identifier,Source Identifier,,
 rights,Rights,
 rightsstatement,Rights Statement,,true
