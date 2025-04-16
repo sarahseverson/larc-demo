@@ -2,9 +2,9 @@ field,display_name,browse_link,external_link
 title,Title,
 creator,Company Name,true
 date,Date,
-description,Description,,true
+description,Description,,
 subject,Headquaters,true
 source,Source,true
-identifier,Source Identifier,,
+sourceurl,Source URL,,true
 rights,Rights,
 rightsstatement,Rights Statement,,true
